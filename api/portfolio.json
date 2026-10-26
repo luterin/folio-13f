@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-23T15:13:28.475Z",
+  "ledgerVersion": 25,
+  "ledgerAsOf": "2026-10-23T15:13:17.191Z",
+  "priceMaxAgeDays": 4,
+  "holdings": [
+    {
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp.",
+      "titleOfClass": "Class A Common Stock",
+      "figi": "BBG001SQPN65",
+      "quantity": 1,
+      "value": null,
+      "currency": "USD",
+      "priceAsOf": null,
+      "priceStatus": "UNKNOWN",
+      "votingAuthority": {
+        "sole": 1,
+        "shared": 0,
+        "none": 0
+      }
+    },
+    {
+      "symbol": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAILY SEMICONDUCTOR BULL 3X SHS",
+      "titleOfClass": "ETF",
+      "figi": "BBG001T6YQM3",
+      "quantity": 300,
+      "value": null,
+      "currency": "USD",
+      "priceAsOf": null,
+      "priceStatus": "UNKNOWN"
+    },
+    {
+      "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
+      "titleOfClass": "ETF",
+      "figi": null,
+      "quantity": 500,
+      "value": null,
+      "currency": "USD",
+      "priceAsOf": null,
+      "priceStatus": "UNKNOWN"
+    }
+  ],
+  "trades": [
+    {
+      "executedAt": "2026-10-23T07:53:24.753Z",
+      "symbol": "RAM",
+      "transaction": "SELL",
+      "quantity": 1000,
+      "price": 8.1,
+      "amount": 8100,
+      "fee": 6.65,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-22T19:40:20.349Z",
+      "symbol": "RAM",
+      "transaction": "BUY",
+      "quantity": 1000,
+      "price": 7.5,
+      "amount": 7500,
+      "fee": 6,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-22T16:50:13.466Z",
+      "symbol": "TQQQ",
+      "transaction": "BUY",
+      "quantity": 500,
+      "price": 66.5,
+      "amount": 33250,
+      "fee": 26.6,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-22T14:47:31.323Z",
+      "symbol": "SOXL",
+      "transaction": "BUY",
+      "quantity": 300,
+      "price": 86,
+      "amount": 25800,
+      "fee": 20.64,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-20T14:25:49.074Z",
+      "symbol": "SOXS",
+      "transaction": "SELL",
+      "quantity": 300,
+      "price": 46,
+      "amount": 13800,
+      "fee": 14.08,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-20T14:05:34.223Z",
+      "symbol": "SOXS",
+      "transaction": "BUY",
+      "quantity": 300,
+      "price": 47.3,
+      "amount": 14190,
+      "fee": 14.19,
+      "currency": "USD"
+    }
+  ],
+  "openOrders": []
+}
