@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-27T03:27:55.500Z",
+  "generatedAt": "2026-10-27T03:40:32.839Z",
   "ledgerVersion": 30,
-  "ledgerAsOf": "2026-10-27T03:27:25.811Z",
+  "ledgerAsOf": "2026-10-27T03:40:00.010Z",
   "priceMaxAgeDays": 4,
   "holdings": [
     {
       "symbol": "SPCX",
       "name": "Space Exploration Technologies Corp.",
-      "titleOfClass": "Class A Common Stock",
+      "titleOfClass": "COM",
       "figi": "BBG001SQPN65",
       "quantity": 1,
       "value": null,
