@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-23T15:13:28.475Z",
-  "ledgerVersion": 25,
-  "ledgerAsOf": "2026-10-23T15:13:17.191Z",
+  "generatedAt": "2026-10-27T03:27:55.500Z",
+  "ledgerVersion": 30,
+  "ledgerAsOf": "2026-10-27T03:27:25.811Z",
   "priceMaxAgeDays": 4,
   "holdings": [
     {
@@ -20,31 +20,49 @@
         "shared": 0,
         "none": 0
       }
-    },
-    {
-      "symbol": "SOXL",
-      "name": "DIREXION SHARES ETF TRUST DAILY SEMICONDUCTOR BULL 3X SHS",
-      "titleOfClass": "ETF",
-      "figi": "BBG001T6YQM3",
-      "quantity": 300,
-      "value": null,
-      "currency": "USD",
-      "priceAsOf": null,
-      "priceStatus": "UNKNOWN"
-    },
-    {
-      "symbol": "TQQQ",
-      "name": "ProShares UltraPro QQQ",
-      "titleOfClass": "ETF",
-      "figi": null,
-      "quantity": 500,
-      "value": null,
-      "currency": "USD",
-      "priceAsOf": null,
-      "priceStatus": "UNKNOWN"
     }
   ],
   "trades": [
+    {
+      "executedAt": "2026-10-26T14:07:21.697Z",
+      "symbol": "SOXS",
+      "transaction": "SELL",
+      "quantity": 1,
+      "price": 52,
+      "amount": 52,
+      "fee": 0.05,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-26T13:29:09.876Z",
+      "symbol": "SOXS",
+      "transaction": "BUY",
+      "quantity": 1,
+      "price": 50.99,
+      "amount": 50.99,
+      "fee": 0.04,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-26T12:35:19.020Z",
+      "symbol": "TQQQ",
+      "transaction": "SELL",
+      "quantity": 500,
+      "price": 67.5,
+      "amount": 33750,
+      "fee": 27.7,
+      "currency": "USD"
+    },
+    {
+      "executedAt": "2026-10-26T12:31:11.976Z",
+      "symbol": "SOXL",
+      "transaction": "SELL",
+      "quantity": 300,
+      "price": 87.7,
+      "amount": 26310,
+      "fee": 21.58,
+      "currency": "USD"
+    },
     {
       "executedAt": "2026-10-23T07:53:24.753Z",
       "symbol": "RAM",
